@@ -1,0 +1,9 @@
+newFunction();
+
+function newFunction() {
+    $(document).ready(function () {
+        $('.modal').modal();
+    });
+}
+
+$
